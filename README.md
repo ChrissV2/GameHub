@@ -12,7 +12,6 @@ Game Hub is a dynamic and visually appealing game hub created using the RAWG Vid
   </p>
 </div>
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,43 +21,24 @@ Game Hub is a dynamic and visually appealing game hub created using the RAWG Vid
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <img src='./screenshot.png'>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+I recently crafted a Game Hub using the RAWG API and React, and it's been a game-changer for my skills. Navigating React's intricacies, I've not only built a sleek hub for gaming enthusiasts but also gained a ton of confidence. This project was a confidence booster, affirming my grasp of React's nuances and giving me hands-on experience that's invaluable. Here's to coding, learning, and leveling up! 🚀🎮
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-
-* [![React][React.js]][React-url]
+- [![React][React.js]][React-url]
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
