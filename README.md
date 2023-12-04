@@ -33,13 +33,13 @@ I recently crafted a Game Hub using the RAWG API and React, and it's been a game
 
 ### Built With
 
-<img src='./icons/react.svg'>
-<img src='./icons/file-type-typescript-official.svg'>
-<img src='./icons/vitejs.svg'>
-<img src='./icons/chakraui.svg'>
-
+<div>
+  <img src='./icons/react.svg'>
+  <img src='./icons/file-type-typescript-official.svg'>
+  <img src='./icons/vitejs.svg'>
+  <img src='./icons/chakraui.svg'>
+</div>
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
