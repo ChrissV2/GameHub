@@ -31,14 +31,15 @@ Game Hub is a dynamic and visually appealing game hub created using the RAWG Vid
 
 I recently crafted a Game Hub using the RAWG API and React, and it's been a game-changer for my skills. Navigating React's intricacies, I've not only built a sleek hub for gaming enthusiasts but also gained a ton of confidence. This project was a confidence booster, affirming my grasp of React's nuances and giving me hands-on experience that's invaluable. Here's to coding, learning, and leveling up! 🚀🎮
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
-- [![React][React.js]][React-url]
+<img src='./icons/react.svg'>
+<img src='./icons/file-type-typescript-official.svg'>
+<img src='./icons/vitejs.svg'>
+<img src='./icons/chakraui.svg'>
+
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
