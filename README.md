@@ -12,18 +12,6 @@ Game Hub is a dynamic and visually appealing game hub created using the RAWG Vid
   </p>
 </div>
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
@@ -40,6 +28,3 @@ I recently crafted a Game Hub using the RAWG API and React, and it's been a game
   <img src='./icons/chakraui.svg'>
 </div>
 
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
